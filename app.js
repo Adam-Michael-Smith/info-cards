@@ -13,7 +13,7 @@ const design1 = [
     {
     id : 1,
     title : 'Flat Landscape',
-    img : '/images/design-one.png',
+    img : 'design-one.png',
     software : 'Draw + Adobe Illustrator',
     info : 'Lorem, ipsum dolor sit amet consectetur adipisicing elit. ' +
     'At pariatur explicabo, ratione tenetur a eius, rerum esse mollitia ' +
@@ -24,7 +24,7 @@ const design1 = [
 {
     id : 2,
     title : 'Superheroes Print',
-    img : '/images/design-two.jpg',
+    img : 'design-two.jpg',
     software : 'Adobe Illustrator',
     info : 'Lorem, ipsum dolor sit amet consectetur adipisicing elit. ' +
     'At pariatur explicabo, ratione tenetur a eius, rerum esse mollitia ' +
@@ -34,7 +34,7 @@ const design1 = [
 {
     id : 3,
     title : 'Typography',
-    img : '/images/design-three.jpg',
+    img : 'design-three.jpg',
     software : 'Adobe Illustrator',
     info : 'Lorem, ipsum dolor sit amet consectetur adipisicing elit. ' +
     'At pariatur explicabo, ratione tenetur a eius, rerum esse mollitia ' +
@@ -44,7 +44,7 @@ const design1 = [
 {
     id : 4,
     title : 'Star Wars Print',
-    img : '/images/design-four.jpg',
+    img : 'design-four.jpg',
     software : 'Adobe Illustrator',
     info : 'Lorem, ipsum dolor sit amet consectetur adipisicing elit. ' +
     'At pariatur explicabo, ratione tenetur a eius, rerum esse mollitia ' +
@@ -54,7 +54,7 @@ const design1 = [
 {
     id : 5,
     title : 'Client Logo',
-    img : '/images/design-five.jpg',
+    img : 'design-five.jpg',
     software : 'Adobe Illustrator',
     info : 'Lorem, ipsum dolor sit amet consectetur adipisicing elit. ' +
     'At pariatur explicabo, ratione tenetur a eius, rerum esse mollitia ' +
@@ -64,7 +64,7 @@ const design1 = [
 {
     id : 6,
     title : 'Soft Drink Design',
-    img : '/images/design-six.jpg',
+    img : 'design-six.jpg',
     software : 'Adobe Illustrator',
     info : 'Lorem, ipsum dolor sit amet consectetur adipisicing elit. ' +
     'At pariatur explicabo, ratione tenetur a eius, rerum esse mollitia ' +
